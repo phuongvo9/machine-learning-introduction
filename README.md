@@ -15,7 +15,7 @@ Welcome to my machine learning journey! This documentation contains notes, resou
 ## Content
 | No. |                                                                 Lesson Link                                                                  |                                           Tools & Frameworks                                          | Lab                                                            |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------ |
-| 0  | [How does Phuong learn](docs/Supervised-Machine-Learning/blogs/navigation-for-beginner.md)  |  [Setup Your Development Environment](#content)                       |   |
+| 0  | [Navigation for Beginners](docs/Supervised-Machine-Learning/blogs/navigation-for-beginner.md)  |  [Setup Your Development Environment](#content)                       |   |
 | 1 | [Supervised Machine Learning](docs/Supervised-Machine-Learning/blogs/what-is-supervised-learning.md) | [Python](https://www.python.org/), [Jupyter Notebook](https://jupyter.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), | [Lab](#content) |
 
 ## Help Wanted
