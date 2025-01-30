@@ -1,11 +1,10 @@
-# Machine learning Journey
 
 Welcome to my machine learning journey! This documentation contains notes, resources, and reflections on my learning experiences in machine learning.
 
 ## Navigation
 - [Home](https://phuongvo9.github.io)
 - [About](#introduction)
-- [Contact] [LinkedIn](https://www.linkedin.com/in/phuongvohuy/) [Phuong.VoHuy](https://www.linkedin.com/in/phuongvohuy/)
+- [Contact](https://www.linkedin.com/in/phuongvohuy/) [Phuong.VoHuy](https://www.linkedin.com/in/phuongvohuy/)
 - [Blog Categories](#categories)
 - [Support Me on BuyMeACoffee](https://buymeacoffee.com/phuongvo)
 
@@ -17,6 +16,7 @@ Welcome to my machine learning journey! This documentation contains notes, resou
 | No. |                                                                 Lesson Link                                                                  |                                           Tools & Frameworks                                          | Lab                                                            |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------ |
 | 0  | [How does Phuong learn](docs/Supervised-Machine-Learning/blogs/navigation-for-beginner.md)  |  [Setup Your Development Environment](#content)                       |   |
+| 1 | [Supervised Machine Learning](docs/Supervised-Machine-Learning/blogs/what-is-supervised-learning.md) | [Python](https://www.python.org/), [Jupyter Notebook](https://jupyter.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), | [Lab](#content) |
 
 ## Help Wanted
 
@@ -25,4 +25,4 @@ Do you have suggestions or found spelling or code errors? Raise an issue or crea
 ## Special Thanks
 
 * **🙏 Core Contributors:** [Contributors](https://github.com/phuongvo9/phuongvo9.github.io/graphs/contributors)
-* **🌟 Star this repository:** [phuongvo9.github.io](https://github.com/phuongvo9/phuongvo9.github.io)
+* **🌟 Star this repository:** [phuongvo9.github.io](https://github.com/phuongvo9/machine-learning-introduction)
