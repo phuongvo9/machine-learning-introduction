@@ -16,7 +16,7 @@ Welcome to my machine learning journey! This documentation contains notes, resou
 ## Content
 | No. |                                                                 Lesson Link                                                                  |                                           Tools & Frameworks                                          | Lab                                                            |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------ |
-| 0  | [How does Phuong learn](./blogs/navigation-for-beginner.md)  |  [Setup Your Development Environment](#content)                       |   |
+| 0  | [How does Phuong learn](docs/Supervised-Machine-Learning/blogs/navigation-for-beginner.md)  |  [Setup Your Development Environment](#content)                       |   |
 
 ## Help Wanted
 
