@@ -16,7 +16,9 @@ Welcome to my machine learning journey! This documentation contains notes, resou
 | No. |                                                                 Lesson Link                                                                  |                                           Tools & Frameworks                                          | Lab                                                            |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------ |
 | 0  | [Navigation for Beginners](docs/Supervised-Machine-Learning/blogs/navigation-for-beginner.md)  |  [Setup Your Development Environment](#content)                       |   |
-| 1 | [Supervised Machine Learning](docs/Supervised-Machine-Learning/blogs/what-is-supervised-learning.md) | [Python](https://www.python.org/), [Jupyter Notebook](https://jupyter.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), | [Lab](#content) |
+| 1 | [What is Supervised Learning?](docs/Supervised-Machine-Learning/blogs/what-is-supervised-learning.md) | [Python](#content) | [Lab 1](#content) |
+| 2 | [What is regression?](docs/Supervised-Machine-Learning/blogs/what-is-regression.md) | [Python](#content) | [Lab 2](#content) |
+| 3 | [What is classification?](docs/Supervised-Machine-Learning/blogs/what-is-classification.md) | [Python](#content) | [Lab 3](#content) |
 
 ## Help Wanted
 
