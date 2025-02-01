@@ -19,8 +19,10 @@ Welcome to my machine learning journey! This documentation contains notes, resou
 | 1 | [What is Supervised Learning?](docs/Supervised-Machine-Learning/blogs/what-is-supervised-learning.md) | [Python](#content) | [Lab 1](#content) |
 | 2 | [What is regression?](docs/Supervised-Machine-Learning/blogs/what-is-regression.md) | [Python](#content) | [Lab 2](#content) |
 | 3 | [What is classification?](docs/Supervised-Machine-Learning/blogs/what-is-classification.md) | [Python](#content) | [Lab 3](#content) |
-| 4 | [What is unsupervised learning? Part 1](docs/Supervised-Machine-Learning/blogs/unsupervised-learning-1.md) | [Python](#content) | [Lab 4](#content) |
+| 4 | [What is unsupervised learning?](docs/Supervised-Machine-Learning/blogs/unsupervised-learning-1.md) | [Python](#content) | [Lab 4](#content) |
 | 5 | [Unsupervised learning - characteristic](docs/Supervised-Machine-Learning/blogs/unsupervised-learning-characteristic.md) | [Python](#content) | [Lab 5](#content) |
+| 6 | [Linear regression model](docs/Supervised-Machine-Learning/blogs/Linear-regression-model.md) | [Python](#content) | [Lab 6](#content) |
+
 
 ## Help Wanted
 
